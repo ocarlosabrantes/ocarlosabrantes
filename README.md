@@ -2,7 +2,7 @@
 
 - 💼 Desenvolvedor Júnior
 - 📚 Estudante de Java, AWS, Azure e SQL
-- 🎓 1x AWS Certified
+- 🎓 AWS/Azure Certified
 - 👩🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas
   
   <div style="display: inline_block"><br>
