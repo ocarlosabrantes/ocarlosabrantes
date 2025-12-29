@@ -7,15 +7,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ocarlosabrantes&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocarlosabrantes&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
----
-
 ### 🛠️ Tecnologias
 
 <p align="left">
