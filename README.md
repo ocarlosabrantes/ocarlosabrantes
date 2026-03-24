@@ -1,9 +1,9 @@
 ## Oi, eu sou o Carlos Henrique!
 
-- :briefcase: Desenvolvedor Júnior  
-- :books: Estudante de Java, ADVPL, AWS, Azure e SQL  
-- :mortar_board: Certificado AWS/Azure  
-- :computer: Cursando Análise e Desenvolvimento de Sistemas  
+- :briefcase: Analista de Sistemas/Desenvolvedor
+- :books: Sou um profissional de tecnologia com experiência em desenvolvimento backend, ERP Protheus, ADVPL, Java, computação em nuvem, AWS e Azure.
+- :mortar_board: AWS Certified Cloud Practitioner e Microsoft Certified Azure Fundamentals (AZ-900).
+- :computer: Cursando o 4º semestre de Análise e Desenvolvimento de Sistemas  
 
 ---
 
