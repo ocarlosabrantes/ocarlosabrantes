@@ -1,9 +1,9 @@
 ## Oi, eu sou o Carlos Henrique!
 
 - :briefcase: Analista de Sistemas/Desenvolvedor
-- :books: Sou um profissional de tecnologia com experiência em desenvolvimento backend, ERP Protheus, ADVPL, Java, computação em nuvem, AWS e Azure
+- :books: Sou um profissional de tecnologia com experiência em desenvolvimento backend, AdvPL, Java, C#, computação em nuvem, AWS e Azure
 - :mortar_board: AWS Certified Cloud Practitioner e Microsoft Certified Azure Fundamentals (AZ-900)
-- :computer: Cursando o 4º semestre de Análise e Desenvolvimento de Sistemas  
+- :computer: Cursando o 5º semestre de Análise e Desenvolvimento de Sistemas  
 
 ---
 
@@ -11,6 +11,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/>
